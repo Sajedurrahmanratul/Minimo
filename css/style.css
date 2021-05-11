@@ -1,0 +1,89 @@
+/*=========================================================
+Colors Css
+==========================================================*/
+/*=========================================================
+Common Css
+==========================================================*/
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: "Playfair Display", serif;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.container-fluid {
+  padding: 20px 120px;
+}
+
+/*=========================================================
+Fonts Css
+==========================================================*/
+h1 {
+  font-size: 50px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 400;
+  font-family: "Playfair Display", serif;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 300;
+  font-family: "Ubuntu", sans-serif;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Playfair Display", serif;
+  line-height: 30px;
+}
+
+a {
+  font-size: 18px;
+  font-weight: 300;
+  font-family: "Playfair Display", serif;
+  text-decoration: none;
+  color: #626262;
+}
+
+a:hover {
+  color: #626262;
+  text-decoration: none;
+}
+
+/*=========================================================
+Header Css
+==========================================================*/
+header img {
+  width: 100%;
+}
+
+/*=========================================================
+Section 1 Css
+==========================================================*/
+.Weekend-getaway {
+  padding: 60px 0;
+}
+
+/*=========================================================
+Section 2 Css
+==========================================================*/
+.blogs img {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
